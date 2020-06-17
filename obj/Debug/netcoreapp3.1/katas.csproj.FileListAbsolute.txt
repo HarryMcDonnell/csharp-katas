@@ -1,0 +1,12 @@
+/Users/codenationstudent/Desktop/csharp/katas/bin/Debug/netcoreapp3.1/katas.deps.json
+/Users/codenationstudent/Desktop/csharp/katas/bin/Debug/netcoreapp3.1/katas.runtimeconfig.json
+/Users/codenationstudent/Desktop/csharp/katas/bin/Debug/netcoreapp3.1/katas.runtimeconfig.dev.json
+/Users/codenationstudent/Desktop/csharp/katas/bin/Debug/netcoreapp3.1/katas.dll
+/Users/codenationstudent/Desktop/csharp/katas/bin/Debug/netcoreapp3.1/katas.pdb
+/Users/codenationstudent/Desktop/csharp/katas/obj/Debug/netcoreapp3.1/katas.csprojAssemblyReference.cache
+/Users/codenationstudent/Desktop/csharp/katas/obj/Debug/netcoreapp3.1/katas.AssemblyInfoInputs.cache
+/Users/codenationstudent/Desktop/csharp/katas/obj/Debug/netcoreapp3.1/katas.AssemblyInfo.cs
+/Users/codenationstudent/Desktop/csharp/katas/obj/Debug/netcoreapp3.1/katas.csproj.CoreCompileInputs.cache
+/Users/codenationstudent/Desktop/csharp/katas/obj/Debug/netcoreapp3.1/katas.dll
+/Users/codenationstudent/Desktop/csharp/katas/obj/Debug/netcoreapp3.1/katas.pdb
+/Users/codenationstudent/Desktop/csharp/katas/obj/Debug/netcoreapp3.1/katas.genruntimeconfig.cache
